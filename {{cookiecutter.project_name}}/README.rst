@@ -10,7 +10,7 @@ Run the following commands to setup your environment:
 
 ::
 
-    $ git clone https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.app_name}}
+    $ git clone https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.project_name}}
     $ cd {{cookiecutter.project_name}}
     $ virtualenv venv or pyvenv venv # optional
     $ pip install -r requirements.txt
